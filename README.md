@@ -4,6 +4,8 @@
 
 This is the summary of implementations for Deep Learning specialization by deeplearning.ai at coursera - https://www.coursera.org/specializations/deep-learning Source code is not posted on this public repository as per the coursera Deep Learning specialization honor code.
 
+Stanford CS230 Playlist - https://www.youtube.com/watch?v=PySo_6S4ZAg&list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb
+
 ## Implementations (Author: Rohit Jain)
 
 `python` `tensorflow` `keras`
